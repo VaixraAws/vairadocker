@@ -1,6 +1,6 @@
 import React from 'react';
 
-function app() {
+function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '2rem' }}>
       <h1>Hello from React!</h1>
@@ -9,4 +9,4 @@ function app() {
   );
 }
 
-export default app;
+export default App;
