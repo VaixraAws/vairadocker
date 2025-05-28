@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "Jenkins_Learning"
+        IMAGE_NAME = "jenkinslearning"
         CONTAINER_NAME = "jenkins_container"
         GIT_REPO = "https://github.com/VaixraAws/vairadocker.git"
     }
